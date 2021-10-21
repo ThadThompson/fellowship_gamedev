@@ -1,0 +1,17 @@
+{
+    "spritesheet": "assets/images/archaeologist.png",
+    "frame_width": 64,
+    "frame_height": 32,
+    "animations": [
+        {
+            "id": "run",
+            "frames": [8, 9, 10, 11, 12, 13, 14, 15],
+            "fps": 10
+        },
+        {
+            "id": "roll",
+            "frames": [16, 17, 18, 19, 20, 21, 22],
+            "fps": 10
+        }
+    ]
+}
